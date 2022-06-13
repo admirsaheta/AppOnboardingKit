@@ -1,3 +1,9 @@
-# AppOnboardingKit
+# AOKit - An easier onBoarding experience
 
-A description of this package.
+AOKit provides an onboarding flow that is simple and easy to implement
+
+## Requirements
+
+
+
+
