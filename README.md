@@ -19,10 +19,10 @@ You can use this package in two ways, it comes down to personal preference:
 
 To start using AOKit in your XCode project add it trough SPM of the XCode menu, or add it directly as a value in dependencies of your ```Package.swift```:
 
-```
+```swift
 dependencies: [
 
-.package(url: "https://github.com/admirsaheta/AppOnboardingKit")
+.package(url: "https://github.com/admirsaheta/AppOnboardingKit.git", .upToNextMajor(from: "1.0.0"))
 
 ]
 
